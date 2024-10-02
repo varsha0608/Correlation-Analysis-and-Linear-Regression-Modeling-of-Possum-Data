@@ -1,1 +1,1 @@
-# Correlation-Analysis-and-Linear-Regression-Modeling-of-Possum-Data
+This project focuses on statistical techniques like correlation analysis and linear regression to explore the possum dataset. The goal is to discover relationships between variables (such as age, size, etc.) and predict one or more outcomes.
